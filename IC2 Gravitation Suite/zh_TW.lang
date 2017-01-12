@@ -1,0 +1,83 @@
+gravisuite.ultimateLappack=終極旗艦電池背包
+gravisuite.advancedLappack=進階旗艦電池背包
+
+gravisuite.advancedJetpack=進階電力噴射背包
+gravisuite.advancedNanoChestplate=進階奈米胸甲
+gravisuite.graviChestplate=重力胸甲
+
+gravisuite.advancedDrill=進階鑽石電鑽
+gravisuite.advancedDrill.mode=模式：%s
+gravisuite.advancedDrill.normal=一般
+gravisuite.advancedDrill.lowPower=低電壓
+gravisuite.advancedDrill.fine=精細
+gravisuite.advancedDrill.bigHoles=大範圍
+gravisuite.advancedDrill.ranOut=電量不足以完成這項操作！
+
+gravisuite.advancedChainsaw=進階電鋸
+gravisuite.advancedChainsaw.shear=剪刀功能%s
+
+gravisuite.graviTool=重力工具
+gravisuite.graviTool.set=%s(%s)
+gravisuite.graviTool.changeTool=%s啟用
+gravisuite.graviTool.hoe=鋤頭模式
+gravisuite.graviTool.treetap=樹脂抽取器模式
+gravisuite.graviTool.wrench=扳手模式
+gravisuite.graviTool.screwdriver=螺絲起子模式
+gravisuite.graviTool.noEnergy=電量不足以完成這項操作！
+
+gravisuite.vajra=伐折羅
+gravisuite.vajra.silkTouch=絲綢之觸模式%s
+gravisuite.vajra.silkTouchDisabled=無法切換工具模式；精準模式在config檔中禁用！
+
+gravisuite.crafting.superconductor_cover=超導體外殼
+gravisuite.crafting.superconductor=超導體
+gravisuite.crafting.cooling_core=冷卻核心
+gravisuite.crafting.gravitation_engine=重力引擎
+gravisuite.crafting.magnetron=磁控管
+gravisuite.crafting.vajra_core=金剛杵核心
+gravisuite.crafting.engine_booster=引擎推進器
+
+
+gravisuite.message.on=開啟
+gravisuite.message.off=關閉
+gravisuite.message.energy=電量：%s
+gravisuite.message.hover=(懸停模式)
+gravisuite.message.jetpackEngine=噴射背包引擎開啟%s
+gravisuite.message.jetpackSwitch=噴射背包引擎切換：%s
+
+
+message.text.energyLevel=Energy level
+message.text.enabled=啟用
+message.text.disabled=禁用
+
+message.text.powerSupply=Power supply
+message.graviChestPlate.gravitationEngine=Gravitation engine
+message.graviChestPlate.levitationMode=Levitation mode
+message.graviChestPlate.levitationMode.short=L
+message.graviChestPlate.lowEnergy=Not enough energy to run Gravitation engine !
+message.graviChestPlate.shutdown=Warning ! Your's energy cell is depleted ! Gravitation engine off
+message.graviChestPlate.noEnergyToBoost=Not enough energy to boost !
+message.hud.displayHud=顯示抬頭顯示器
+message.hud.location=抬頭顯示器位置
+message.hud.location.topLeft=左上
+message.hud.location.topRight=右上
+message.hud.location.bottomLeft=左下
+message.hud.location.bottomRight=右下
+
+block.relocatorPortal.name=RelocatorPortal
+item.relocator.name=Relocator
+item.relocator.gui.addPoint=ADD NEW POINT
+
+message.relocator.mode.personal=Personal
+message.relocator.mode.translocator=Translocator
+message.relocator.mode.portal=Portal
+message.relocator.defPoint=Default
+message.relocator.text.poindAdded=added to teleport list !
+message.relocator.text.pointExists=already exists in teleport list !
+message.relocator.text.memoryFull=Can't add point. Memory is full.
+message.relocator.text.cantSetPointPoint=Can't set default teleport point. Teleport point not found.
+message.relocator.text.noDefaultPoint=Default teleport point not set
+message.relocator.text.modeTranslocatorDisabled=Translocator mode disabled at server !
+message.relocator.text.modePortalDisabled=Portal mode disabled at server !
+message.relocator.text.messageToTarget=tried to teleport you !
+message.relocator.text.defaultPointSet=Default teleport point set to
