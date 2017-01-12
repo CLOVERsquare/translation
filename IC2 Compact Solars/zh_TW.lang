@@ -1,0 +1,11 @@
+# zh_TW translate by CLOVERsquare 翻譯者 黒羽真汐
+
+#太陽能板
+tile.compactsolars:high_voltage_block.name=高壓排列太陽能板
+tile.compactsolars:medium_voltage_block.name=中壓排列太陽能板
+tile.compactsolars:low_voltage_block.name=低壓排列太陽能板
+
+#太陽能頭盔
+item.compactsolars:solar_hat_high_voltage.name=高壓太陽能頭盔
+item.compactsolars:solar_hat_medium_voltage.name=中壓太陽能頭盔
+item.compactsolars:solar_hat_low_voltage.name=低壓太陽能頭盔
